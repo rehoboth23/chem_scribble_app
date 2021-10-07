@@ -1,2 +1,2 @@
 # chem_scribble_app
-Hello We are starting the project
+Hello we started the project

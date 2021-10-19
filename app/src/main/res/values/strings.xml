@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChemScribble</string>
+    <string name="documents">Documents</string>
+    <string name="make_new_scan">Make new scan</string>
+    <string name="file_name">File Name</string>
+    <string name="file_date">File Date</string>
+</resources>
